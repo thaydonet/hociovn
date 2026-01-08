@@ -1,0 +1,28 @@
+{
+    "items": [
+	{
+            "id": 3,
+            "title": "Thông tin mới",
+            "content": "Ver 1.1.5: Thêm Rss",
+            "link": "https://hoc.io.vn/rss.xml",
+            "date": "2026-01-01T00:00:00Z",
+            "icon": "⚡"
+        },
+        {
+            "id": 2,
+            "title": "Học Toán AI phiên bản 1.1.4",
+            "content": "Thêm câu tự luận - cải tiến câu hỏi động.",
+            "link": "https://hoc.io.vn/#/online-exam",
+            "date": "2025-12-29T00:00:00Z",
+            "icon": "🎓"
+        },
+        {
+            "id": 1,
+            "title": "Học toán AI",
+            "content": "Ra mắt 01/12/2015",
+            "link": "https://hoc.io.vn",
+            "date": "2025-12-01T00:00:00Z",
+            "icon": "🧑‍🤝‍🧑"
+        }
+    ]
+}

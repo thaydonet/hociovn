@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Học Toán AI - Tin tức và Thông báo</title>
+    <link>https://hoc.io.vn</link>
+    <description>Ngân hàng câu hỏi Toán AI - Hệ thống thi online và học tập Toán THPT (Lớp 10, 11, 12)</description>
+    <language>vi</language>
+    <copyright>Copyright 2026 Học Toán AI. All rights reserved.</copyright>
+    <managingEditor>admin@hoc.io.vn (Học Toán AI)</managingEditor>
+    <webMaster>admin@hoc.io.vn (Học Toán AI)</webMaster>
+    <lastBuildDate>Thu, 01 Jan 2026 02:37:03 GMT</lastBuildDate>
+    <category>Education</category>
+    <category>Mathematics</category>
+    <category>Online Learning</category>
+    <ttl>1440</ttl>
+    <image>
+      <url>https://hoc.io.vn/logo.png</url>
+      <title>Học Toán AI</title>
+      <link>https://hoc.io.vn</link>
+    </image>
+    <atom:link href="https://hoc.io.vn/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>📝 Đề KT 15 phút 12A1</title>
+      <link>https://hoc.io.vn/#/online-exam/de-kt-15-phut-12a1-b416d7</link>
+      <guid isPermaLink="false">https://hoc.io.vn/quiz/22</guid>
+      <description>Đề thi Đề KT 15 phút 12A1. 10 câu hỏi. Thời gian: 15 phút.</description>
+      <pubDate>Wed, 31 Dec 2025 13:03:05 GMT</pubDate>
+      <dc:creator>Học Toán AI</dc:creator>
+      <category>Đề thi</category>
+      <category>Online Exam</category>
+      <category>Quiz</category>
+    </item>
+
+    <item>
+      <title>📝 Đề thi 5 câu - 31/12/2025 07:50</title>
+      <link>https://hoc.io.vn/#/online-exam/de-thi-5-cau-31122025-0750-f30be5</link>
+      <guid isPermaLink="false">https://hoc.io.vn/quiz/21</guid>
+      <description>Đề thi Đề thi 5 câu - 31/12/2025 07:50. 5 câu hỏi. Thời gian: 15 phút.</description>
+      <pubDate>Wed, 31 Dec 2025 00:50:55 GMT</pubDate>
+      <dc:creator>Học Toán AI</dc:creator>
+      <category>Đề thi</category>
+      <category>Online Exam</category>
+      <category>Quiz</category>
+    </item>
+
+    <item>
+      <title>📝 Đề thi Luyện tập thi HK1 - toán 10 - (2025-2026) - Mã đề 100</title>
+      <link>https://hoc.io.vn/#/online-exam/de-thi-luyen-tap-thi-hk1-toan-10-2025-2026-ma-de-100-36b7e8</link>
+      <guid isPermaLink="false">https://hoc.io.vn/quiz/20</guid>
+      <description>Đề thi Đề thi Luyện tập thi HK1 - toán 10 - (2025-2026) - Mã đề 100. 21 câu hỏi. Thời gian: 60 phút.</description>
+      <pubDate>Tue, 30 Dec 2025 15:01:09 GMT</pubDate>
+      <dc:creator>Học Toán AI</dc:creator>
+      <category>Đề thi</category>
+      <category>Online Exam</category>
+      <category>Quiz</category>
+    </item>
+
+    <item>
+      <title>🎓 Học Toán AI phiên bản 1.1.4</title>
+      <link>https://hoc.io.vn/#/online-exam</link>
+      <guid isPermaLink="false">https://hoc.io.vn/announcement/1</guid>
+      <description>Thêm câu tự luận - cải tiến câu hỏi động.</description>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+      <dc:creator>Học Toán AI</dc:creator>
+      <category>Thông báo</category>
+      <category>Announcement</category>
+    </item>
+
+    <item>
+      <title>📝 Đề thi luyện tập HK1 - Toán 12  (2025 - 2026)</title>
+      <link>https://hoc.io.vn/#/online-exam/de-thi-luyen-tap-hk1-toan-12-2025-2026</link>
+      <guid isPermaLink="false">https://hoc.io.vn/quiz/1</guid>
+      <description>Đề thi Đề thi luyện tập HK1 - Toán 12  (2025 - 2026). 22 câu hỏi. Thời gian: 50 phút.</description>
+      <pubDate>Sat, 13 Dec 2025 03:25:43 GMT</pubDate>
+      <dc:creator>Học Toán AI</dc:creator>
+      <category>Đề thi</category>
+      <category>Online Exam</category>
+      <category>Quiz</category>
+    </item>
+
+    <item>
+      <title>🎓 Bài 1: Tính đơn điệu và cực trị của hàm số</title>
+      <link>https://hoc.io.vn/#/hoc-online/bai-1-tinh-don-dieu-cuc-tri-ham-so</link>
+      <guid isPermaLink="false">https://hoc.io.vn/lesson/5</guid>
+      <description>Bài 1: Tính đơn điệu và cực trị của hàm số</description>
+      <pubDate>Tue, 09 Dec 2025 08:07:08 GMT</pubDate>
+      <dc:creator>Học Toán AI</dc:creator>
+      <category>Bài học</category>
+      <category>Learning</category>
+      <category>Video</category>
+    </item>
+
+    <item>
+      <title>🧑‍🤝‍🧑 Tài khoản Giáo viên</title>
+      <link>https://hoc.io.vn</link>
+      <guid isPermaLink="false">https://hoc.io.vn/announcement/2</guid>
+      <description>giaovien@hoc.io.vn / pass: gv123456</description>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+      <dc:creator>Học Toán AI</dc:creator>
+      <category>Thông báo</category>
+      <category>Announcement</category>
+    </item>
+  </channel>
+</rss>

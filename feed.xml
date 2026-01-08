@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Học Toán AI - Tin tức và Thông báo</title>
+  <subtitle>Ngân hàng câu hỏi Toán AI - Hệ thống thi online và học tập Toán THPT (Lớp 10, 11, 12)</subtitle>
+  <link href="https://hoc.io.vn/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://hoc.io.vn" rel="alternate" type="text/html"/>
+  <id>https://hoc.io.vn/</id>
+  <updated>2026-01-01T00:00:00+07:00</updated>
+  <rights>Copyright 2026 Học Toán AI. All rights reserved.</rights>
+  <author>
+    <name>Học Toán AI</name>
+    <email>admin@hoc.io.vn</email>
+    <uri>https://hoc.io.vn</uri>
+  </author>
+  <category term="Education"/>
+  <category term="Mathematics"/>
+  <category term="Online Learning"/>
+  <icon>https://hoc.io.vn/favicon.ico</icon>
+  <logo>https://hoc.io.vn/logo.png</logo>
+
+  <!-- Entry 1 -->
+  <entry>
+    <title>🎓 Học Toán AI phiên bản 1.1.4</title>
+    <link href="https://hoc.io.vn/#/online-exam" rel="alternate" type="text/html"/>
+    <id>https://hoc.io.vn/#/online-exam</id>
+    <published>2025-12-29T00:00:00+07:00</published>
+    <updated>2025-12-29T00:00:00+07:00</updated>
+    <summary type="text">Thêm câu tự luận - cải tiến câu hỏi động.</summary>
+    <content type="html"><![CDATA[
+      <p>Thêm câu tự luận - cải tiến câu hỏi động.</p>
+      <p><a href="https://hoc.io.vn/#/online-exam">Xem chi tiết →</a></p>
+    ]]></content>
+    <author>
+      <name>Học Toán AI</name>
+    </author>
+    <category term="Update"/>
+    <category term="Feature"/>
+  </entry>
+
+  <!-- Entry 2 -->
+  <entry>
+    <title>🧑‍🤝‍🧑 Tài khoản Giáo viên</title>
+    <link href="https://hoc.io.vn" rel="alternate" type="text/html"/>
+    <id>tag:hoc.io.vn,2025-12-05:teacher-account-2</id>
+    <published>2025-12-05T00:00:00+07:00</published>
+    <updated>2025-12-05T00:00:00+07:00</updated>
+    <summary type="text">Thông tin tài khoản demo: giaovien@hoc.io.vn / pass: gv123456</summary>
+    <content type="html"><![CDATA[
+      <p>Thông tin tài khoản demo giáo viên:</p>
+      <ul>
+        <li><strong>Email:</strong> giaovien@hoc.io.vn</li>
+        <li><strong>Mật khẩu:</strong> gv123456</li>
+      </ul>
+      <p><a href="https://hoc.io.vn">Đăng nhập ngay →</a></p>
+    ]]></content>
+    <author>
+      <name>Học Toán AI</name>
+    </author>
+    <category term="Information"/>
+    <category term="Account"/>
+  </entry>
+
+</feed>

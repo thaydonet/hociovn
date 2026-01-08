@@ -1,0 +1,66 @@
+# robots.txt for Học Toán AI - hoc.io.vn
+# Vietnamese Math Question Bank and Online Exam System
+
+User-agent: *
+Allow: /
+
+# Allow crawling of main pages
+Allow: /#/
+Allow: /#/about
+Allow: /#/contact
+Allow: /#/huong-dan
+Allow: /#/terms
+Allow: /#/sitemap
+Allow: /#/online-exam
+Allow: /#/exam
+Allow: /#/hoc-online
+
+# Disallow authenticated/private sections
+Disallow: /#/admin
+Disallow: /#/quiz-bank
+Disallow: /#/create
+Disallow: /#/teacher-results
+Disallow: /#/practice/session
+Disallow: /#/practice/schedule
+Disallow: /#/my-lessons
+Disallow: /#/lesson
+
+# Disallow debug pages
+Disallow: /#/debug-api
+
+# Allow access to static resources
+Allow: /*.js
+Allow: /*.css
+Allow: /*.json
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.webp
+
+# Sitemap location
+Sitemap: https://hoc.io.vn/sitemap.xml
+
+# RSS Feed location
+Sitemap: https://hoc.io.vn/rss.xml
+
+# Crawl-delay to be respectful (optional)
+# Crawl-delay: 1
+
+# Specific bot instructions
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Block bad bots (optional)
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
